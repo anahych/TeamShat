@@ -1,15 +1,16 @@
-En un chat colaborativo, cada participante puede enviar y recibir mensajes instantáneamente, lo que elimina 
-barreras de distancia y tiempo. Los usuarios suelen estar identificados mediante nombres, colores, avatares o iniciales, 
-lo cual ayuda a diferenciar claramente quién está hablando y mejora la organización de la conversación. Además, muchas plataformas 
-de este tipo incluyen indicadores de usuarios en línea y fuera de línea, permitiendo saber quién está disponible para interactuar en ese momento.
-El chat también puede integrar funciones adicionales como el uso de emojis, notificaciones de entrada o salida del chat, historial
-de mensajes, y en algunos casos, herramientas para compartir archivos, imágenes o enlaces. Estas características enriquecen la comunicación y permiten
-expresar emociones, aclaraciones o matices que complementan el mensaje escrito.
+Un chat colaborativo de mensajería en tiempo real es una plataforma digital que permite a varios usuarios comunicarse simultáneamente mediante mensajes de texto dentro
+de un mismo entorno virtual. Su función principal es facilitar la interacción inmediata y continua entre los participantes, centrándose únicamente en el envío y recepción 
+de mensajes.Este tipo de chat se caracteriza por su simplicidad y eficiencia. Los usuarios pueden escribir mensajes que se muestran instantáneamente para todos los demás 
+integrantes de la sala. Cada participante está identificado por su nombre o avatar, lo cual permite distinguir fácilmente quién interviene en la conversación. La plataforma
+también incorpora un sistema de estado en tiempo real, que muestra quién está en línea, conectándose o fuera de línea, permitiendo a los usuarios saber de manera inmediata 
+quién está disponible para interactuar
 <img width="970" height="623" alt="image" src="https://github.com/user-attachments/assets/1de061e2-aab6-4fd8-8dab-403163561ec7" />
-Un chat colaborativo es una herramienta digital diseñada para permitir la comunicación en tiempo real entre múltiples usuarios dentro de un mismo
-espacio virtual. Su función principal es facilitar la interacción continua y fluida entre personas que buscan compartir información, coordinar actividades 
-o trabajar juntas en una tarea común. Este tipo de sistema es ampliamente utilizado en entornos educativos, profesionales y sociales, ya que promueve el
-trabajo en equipo y agiliza el intercambio de ideas.
+
+
+Además, el chat puede registrar acciones básicas como la entrada o salida de los usuarios (“se unió al chat”, “salió del chat”), lo que ayuda a mantener un 
+control mínimo de la actividad. Aunque su funcionamiento es sencillo, este tipo de chat favorece la comunicación grupal fluida, el trabajo colaborativo y la 
+coordinación entre los participantes, convirtiéndose en una herramienta práctica para actividades escolares, reuniones pequeñas o entornos donde solo se necesita 
+comunicación textual rápida.
 <img width="960" height="632" alt="image" src="https://github.com/user-attachments/assets/e20abd6b-844a-475c-abb8-2fd06a488847" />
 
 
